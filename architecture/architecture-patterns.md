@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae arcu non dolo
 
 *Related links:* [a very useful link](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
-# MICROSERVICES
+# Microservices
 
 
  **Definición, Topología, terminología**
@@ -208,7 +208,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae arcu non dolo
 
 *Related links:* [a very useful link](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
-# SPACE BASED
+# Space based
 
 
  **Definición, Topología, terminología**
