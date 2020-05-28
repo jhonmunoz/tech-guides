@@ -3,14 +3,14 @@
 
 
  1. [Monoliths](#monoliths)
- 2. [Service Based](#service%20based)
+ 2. [Service Based](#service-based)
  3. [Microservices](#microservices)
- 4. [Event Driven](#event%20driven)
+ 4. [Event Driven](#event-driven)
  5. [Layered](#layered)
- 6. [Space based](#space%20based)
+ 6. [Space based](#space-based)
 
 
-# MONOLITHS
+# Monoliths
 
 
  **Definición, Topología, terminología**
@@ -89,7 +89,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae arcu non dolo
 *Related links:* [a very useful link](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 
-#  SERVICE BASED
+#  Service based
 
 
  **Definición, Topología, terminología**
@@ -129,7 +129,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae arcu non dolo
 *Related links:* [a very useful link](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 
-# EVENT DRIVEN
+# Event driven
 
 
  **Definición, Topología, terminología**
@@ -169,7 +169,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam vitae arcu non dolo
 *Related links:* [a very useful link](https://www.oreilly.com/programming/free/files/software-architecture-patterns.pdf)
 
 
-# LAYERED
+# Layered
 
 
  **Definición, Topología, terminología**
