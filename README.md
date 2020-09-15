@@ -33,6 +33,8 @@ If you need to add a new technology, follow the [Tech Kickoff Guide](./templates
 
 - [Infrastructure](./infrastructure/README.md)
 
+- [Architecture](./architecture/README.md)
+
 - [Git](./git/README.md)
 
 ## General Useful Documentation
